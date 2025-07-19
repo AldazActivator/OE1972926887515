@@ -41,7 +41,7 @@ Although over a year passed without feedback, the issue was ultimately patched a
 
 ---
 
-## 🔧 Technical Overview
+## Technical Overview
 
 The vulnerability was found in Apple’s Find My Device service endpoints hosted at:
 
@@ -133,7 +133,7 @@ A CVE ID has been requested through MITRE and is pending publication.
 **Gerson Aldaz**  
 Security Researcher  
 📧 aldazactivator@gmail.com  
-🌐 GitHub: [github.com/GersonAldaz](https://github.com/AldazActivator)
+🌐 GitHub: [github.com/AldazActivator](https://github.com/AldazActivator)
 
 ---
 
