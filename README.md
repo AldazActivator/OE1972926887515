@@ -54,7 +54,7 @@ These APIs accepted PET tokens extracted from local backups or proxy interceptio
 
 ---
 
-## ✅ Solution (recommended and adopted)
+## Solution (recommended and adopted)
 
 As part of my disclosure, I explicitly recommended:
 
@@ -133,12 +133,10 @@ A CVE ID has been requested through MITRE and is pending publication.
 **Gerson Aldaz**  
 Security Researcher  
 📧 aldazactivator@gmail.com  
-🌐 GitHub: [github.com/AldazActivator](https://github.com/AldazActivator)
+GitHub: [github.com/AldazActivator](https://github.com/AldazActivator)
 
 ---
 
 ## 📄 License
-
-This documentation is released under the [MIT License](LICENSE).
 
 > This disclosure is for educational and transparency purposes only, in support of better industry-wide security practices.
